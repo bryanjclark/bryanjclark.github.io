@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  line-height: 1.2;
 }
 
 p {
@@ -66,12 +67,7 @@ a {
   margin-top: 20px;
   margin-left: 43px; /* 160 (column width) - 112 (avi width) - 5 (border width)*/
   font-size: 20px;
-  font-weight: 200;
   margin-bottom: 0px;
-}
-
-.welcome-text span {
-  display: block;
 }
 
 .resume-container {
