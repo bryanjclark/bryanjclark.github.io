@@ -18,7 +18,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #061826;
+  color: #0471a6;
   font-weight: 500;
 }
 
@@ -66,8 +66,7 @@ a {
   margin-top: 20px;
   margin-left: 43px; /* 160 (column width) - 112 (avi width) - 5 (border width)*/
   font-size: 20px;
-  font-weight: 400;
-  color: #0471a6;
+  font-weight: 200;
   margin-bottom: 0px;
 }
 
@@ -86,7 +85,6 @@ a {
 }
 
 .resume-section-title {
-  color: #0471a6;
   font-weight: 600;
   min-width: 160px;
 }
