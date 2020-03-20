@@ -85,21 +85,6 @@ a {
   min-width: 160px;
 }
 
-/* Bernie Stuff */
-.map-container {
-  margin-top: 24px;
-}
-
-.map-image-container {
-  display: none;
-}
-
-.map-image-container img {
-  margin-top: 24px;
-  max-width: 100%;
-  height: auto;
-}
-
 /* mobile */
 @media screen and (max-width: 768px) {
   .header-container {
@@ -143,13 +128,5 @@ a {
 
   .resume-section-title {
     margin-bottom: 8px;
-  }
-
-  .map-container {
-    display: none !important;
-  }
-
-  .map-image-container {
-    display: inherit;
   }
 }
